@@ -1,0 +1,25 @@
+{
+  "name": "nft_visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamchong/NFT_visualization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamchong/NFT_visualization/issues"
+  },
+  "homepage": "https://github.com/williamchong/NFT_visualization#readme",
+  "dependencies": {
+    "chromedriver": "^98.0.1",
+    "glob": "^7.2.0",
+    "jsdom": "^19.0.0",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
